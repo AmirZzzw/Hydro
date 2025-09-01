@@ -4,5 +4,11 @@
         "key": "amir",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "74d2a2dae4733912",
+        "key": "opixexz",
+        "expirydate": "2-10-2025",
+        "Allowoffline": false
     }
 ]
