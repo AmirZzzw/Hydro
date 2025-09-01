@@ -28,5 +28,11 @@
         "key": "Hydro",
         "expirydate": "30-12-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d555c69e8a5884f7",
+        "key": "Rage",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
 ]
