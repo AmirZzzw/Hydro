@@ -16,5 +16,11 @@
         "key": "u7xxxxxx",
         "expirydate": "2-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f2222c86fc785152",
+        "key": "u6xxxxxx",
+        "expirydate": "2-10-2025",
+        "Allowoffline": false
     }
 ]
