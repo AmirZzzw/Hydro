@@ -22,5 +22,11 @@
         "key": "u6xxxxxx",
         "expirydate": "2-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d4aae500b21004b0",
+        "key": "Hydro",
+        "expirydate": "30-12-2030",
+        "Allowoffline": false
     }
 ]
