@@ -40,5 +40,11 @@
         "key": "giutin",
         "expirydate": "9-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "988bc9b36dff2f61",
+        "key": "giutin",
+        "expirydate": "9-10-2025",
+        "Allowoffline": false
     }
 ]
