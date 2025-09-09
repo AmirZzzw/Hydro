@@ -40,5 +40,11 @@
         "key": "giutin",
         "expirydate": "9-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "60104db2606c29dc",
+        "key": "Talivan",
+        "expirydate": "9-10-2025",
+        "Allowoffline": false
     }
 ]
