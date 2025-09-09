@@ -46,5 +46,11 @@
         "key": "Talivan",
         "expirydate": "9-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3a272c44e77cb531",
+        "key": "Poryaa",
+        "expirydate": "9-10-2025",
+        "Allowoffline": false
     }
 ]
