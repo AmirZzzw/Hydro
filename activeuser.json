@@ -58,5 +58,11 @@
         "key": "sope",
         "expirydate": "11-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "efed9a6fa73a5da6",
+        "key": "Pishi",
+        "expirydate": "11-10-2025",
+        "Allowoffline": false
     }
 ]
