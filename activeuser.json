@@ -70,5 +70,11 @@
         "key": "Pishi",
         "expirydate": "11-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5f1fcf016598431a",
+        "key": "DEMON",
+        "expirydate": "30-12-2028",
+        "Allowoffline": false
     }
 ]
