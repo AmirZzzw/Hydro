@@ -82,5 +82,11 @@
         "key": "RUOK1234",
         "expirydate": "30-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c09f03cf38155342",
+        "key": "RUOK1212",
+        "expirydate": "30-10-2025",
+        "Allowoffline": false
     }
 ]
