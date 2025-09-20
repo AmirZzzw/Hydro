@@ -76,11 +76,5 @@
         "key": "DEMON",
         "expirydate": "30-12-2028",
         "Allowoffline": false
-    },
-    {
-        "device_id": "8b248fb44413a198",
-        "key": "RUOK1234",
-        "expirydate": "30-10-2025",
-        "Allowoffline": false
     }
 ]
