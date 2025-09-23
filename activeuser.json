@@ -88,5 +88,11 @@
         "key": "RUOK1212",
         "expirydate": "30-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5d0bd43403d1b4fa",
+        "key": "gaymling",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
 ]
