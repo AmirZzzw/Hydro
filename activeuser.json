@@ -94,5 +94,11 @@
         "key": "gaymling",
         "expirydate": "30-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a5ff2657a6f5e583",
+        "key": "Capudo8786522",
+        "expirydate": "29-10-2025",
+        "Allowoffline": false
     }
 ]
