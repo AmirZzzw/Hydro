@@ -100,5 +100,11 @@
         "key": "Capudo8786522",
         "expirydate": "29-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "77d64979c676799f",
+        "key": "Yasin",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
 ]
