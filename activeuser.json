@@ -100,5 +100,11 @@
         "key": "Yasin",
         "expirydate": "30-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3a272c44e77cb531",
+        "key": "1Poryaaaa",
+        "expirydate": "11-11-2025",
+        "Allowoffline": false
     }
 ]
