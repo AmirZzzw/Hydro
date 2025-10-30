@@ -106,5 +106,11 @@
         "key": "1Poryaaaa",
         "expirydate": "11-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "778b088be2e97e71",
+        "key": "WISKI",
+        "expirydate": "30-11-2025",
+        "Allowoffline": false
     }
 ]
