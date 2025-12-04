@@ -112,5 +112,11 @@
         "key": "WISKI",
         "expirydate": "30-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "866a6b39146639ff",
+        "key": "demom",
+        "expirydate": "30-11-2026",
+        "Allowoffline": false
     }
 ]
